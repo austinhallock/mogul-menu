@@ -1,5 +1,7 @@
 # `@truffle/mogul-menu` 🍄
 
+**New source of truth is https://github.com/trufflehq/truffle-packages/tree/master/stream-projects/mogul-menu**
+
 The main menu used in the Truffle.TV browser extension.
 
 ### Installation
